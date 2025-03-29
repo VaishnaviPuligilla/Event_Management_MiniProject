@@ -3,7 +3,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import { Button } from "react-bootstrap";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaArrowDown } from "react-icons/fa";
-
 const images = [
   "/Images/Bg/bg1.jpg",
   "/Images/Bg/bg2.png",
